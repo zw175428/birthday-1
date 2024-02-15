@@ -1,4 +1,4 @@
-// 霸都丶傲天 2019年10月10日 https://github.com/AJLoveChina/birthday
+//  2019年10月10日 https://github.com/AJLoveChina/birthday
 var config = {
     // 句子的长度可以任意， 你可以写十句话， 二十句话都可以
     // 每句话尽量不要超过15个字,不然展示效果可能不太好
@@ -8,9 +8,16 @@ var config = {
         "希 望 你 🌹",
         "眼里有光，心中有爱🤡",
         "目光所及，皆是美好🕯️",
+        "愿你能精致到老，眼里长着太阳",
+        "笑里全是坦荡",
+        "愿你贪吃不胖，深情不负",
+        "傻人傻福，一直幸运",
+        "一生努力，一生被爱",
+        "想要的都拥有，得不到的都释怀",
         "平 平 安 安 每 一 天",
         "快 快 乐 乐 每 一 年",
         "幸 幸 福 福 一 辈 子",
+        "来 自 曾 伟 的 祝 福 2024.2.14",
 
     ],
     /**
@@ -35,7 +42,7 @@ var config = {
         balloons_flying: "好像少点东西",
         cake_fadein: "蛋糕？",
         light_candle: "蜡烛？",
-        wish_message: "生日快乐",
+        wish_message: "生日快乐李慧",
         story: "A MESSAGE FOR YOU",
     }
 };
